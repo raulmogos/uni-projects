@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (undo-redo.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  service.c
+d:\facultate -----fmi\semestrul 2\oop\lab\lab-4\undo-redo\undo-redo\service.c(17): warning C4715: 'searchBotBySerialNumber': not all control paths return a value
+  undo-redo.vcxproj -> D:\FACULTATE -----FMI\semestrul 2\OOP\Lab\lab-4\undo-redo\Debug\app-undo-redo.exe

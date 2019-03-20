@@ -1,0 +1,99 @@
+1, To Kill a Mockingbird, good, arper Lee, available
+2, Pride and Prejudice, good, Jane Austen, available
+3, Anne Frank:The Diary of a Young Girl, good, Anne Frank, available
+4, 1984, good, George Orwell, available
+5, Harry Potter and the Sorcerer’s Stone, good, J.K. Rowling, available
+6, The Lord of the Rings, good, J.R.R. Tolkien, available
+7, The Great Gatsby, good, F. Scott Fitzgerald, available
+8, Charlotte’s Web, good, E.B. White, available
+9, Little Women, good, Louisa May Alcot, available
+10, The Hobbit, good, J.R.R. Tolkien, available
+12, Jane Eyre, good, Charlotte Bronte, unavailable
+11, Fahrenheit 451: A Novel, good, Ray Bradbury, available
+13, Gone With the Wind, good, Margaret Mitchell, available
+14, Animal Farm, good, George Orwell, available
+15, The Catcher in the Rye, good, J.D. Salinger, available
+16, The Adventures of Huckleberry Finn, good, Mark Twain, available
+17, The Help, good, Kathryn Stockett, available
+18, The Grapes of Wrath, good, John Steinbeck, available
+20, The Hunger Games, good, Suzanne Collins, available
+21, The Book Thief, good, Markus Zusak, available
+22, Lord of the Flies, good, William Golding, available
+23, The Kite Runner, good, Khaled Hosseini, available
+24, Night, good, Elie Wiesel, available
+25, Hamlet, good, William Shakespeare, available
+26, A Tale of Two Cities, good, Charles Dickens, available
+27, A Wrinkle in Time, good, Madeline L’Engle, available
+28, The Hitchhiker’s Guide to the Galaxy, good, Douglas Adams, available
+29, A Christmas Carol , super good, Charles Dickens, available
+30, Of Mice and Men , super good, John Steinbeck, available
+31, The Secret Garden , super good, Frances Hodgson Burnett, available
+32, Romeo and Juliet , super good, William Shakespeare, available
+33, The Handmaid’s Tale , super good, Margaret Atwood, available
+34, Brave New World , super good, Aldous Huxley, available
+35, The Little Prince , super good, Antoine Saint-Exupery, available
+36, Where the Sidewalk Ends , super good, Shel Silverstein, available
+37, Wuthering Heights , super good, Emily Bronte, available
+38, The Giver , super good, Lois Lowry, available
+39, Anne of Green Gables , super good, L.M. Montgomery, available
+40, Macbeth , super good, William Shakespeare, available
+41, The Adventures of Tom Sawyer , super good, Mark Twain, available
+42, Harry Potter and the Deathly Hallows , super good, J.K. Rowling, available
+43, Frankenstein , super good, Mary Shelley, available
+44, The Holy Bible: New King James Version , super good, Thomas Nelson, available
+45, The Girl with the Dragon Tattoo , super good, Stieg Larsson, available
+46, The Count of Monte Cristo , super good, Alexandre Dumas pere, available
+47, The Fault in Our Stars , super good, John Green, available
+48, The Color Purple , super good, Alice Walker, available
+49, East of Eden , super good, John Steinbeck, available
+50, A Tree Grows in Brooklyn , super good, Betty Smith, available
+51, Catch-22 , super good, Joseph Heller, available
+52, In Cold Blood , super good, Truman Capote, available
+53, The Stand , super good, Stephen King, available
+54, Alice’s Adventures in Wonderland & Through the Looking Glass , super good, Lewis Carroll, available
+55, Watership Down , super good, Richard Adams, available
+56, Anna Karenina , super good, Leo Tolstoy, available
+57, Ender’s Game , super good, Orson Scott Card, available
+58, Great Expectations , super good, Charles Dickens, available
+59, Rebecca , super good, Daphne du Maurier, available
+60, Memoirs of a Geisha: A Novel , super good, Arthur Golden, available
+61, The Adventures of Sherlock Holmes , super good, Arthur Conan Doyle, available
+62, Harry Potter and the Prisoner of Azkaban , super good, J.K. Rowling, available
+63, The Old Man and the Sea , super good, Ernest Hemingway, available
+64, Game of Thrones (A Song of Ice and Fire Book 1) , super good, George R.R. Martin, available
+65, The Princess Bride: S. Morgenstern’s Classic Tale of True Love and High Adventure , super good, William Goldman, available
+66, Charlie and the Chocolate Factory , super good, Roald Dahl, available
+67, Life of Pi , super good, Yann Martel, available
+68, The Pillars of the Earth , super good, Ken Follett, available
+69, Les Miserables , super good, Victor Hugo, available
+70, The Scarlet Letter , super good, Nathaniel Hawthorne, available
+71, Dracula , super good, Bram Stoker, available
+72, Harry Potter and the Half-Blood Prince , super good, J.K. Rowling, available
+73, Catching Fire (The Hunger Games Book 2) , super good, Suzanne Collins, available
+74, Water for Elephants: A Novel , super good, Sara Gruen, available
+75, The Raven , super good, Edgar Allen Poe, available
+76, The Secret Life of Bees , super good, Sue Monk Kidd, available
+77, Outlander , super good, Diana Gabaldon, available
+78, One Hundred Years of Solitude , super good, Gabriel Garcia Marquez, available
+79, The Poisonwood Bible: A Novel , super good, Barbara Kingslover, available
+80, The Good Earth , super good, Pearl S. Buck, available
+81, The Time Traveler’s Wife , super good, Audrey Niffenegger, available
+82, The Odyssey , super good, Homer, available
+83, Celebrating Silence: Excerpts From Five Years of Weekly Knowledge 1995-2000 , super good, Sri Sri Ravi Shankar, available
+84, A Prayer for Owen Meany , super good, John Irving, available
+85, And Then There Were None , super good, Agatha Christie, available
+86, The Immortal Life of Henrietta Lacks , super good, Rebecca Skloot, available
+87, The Thorn Birds , super good, Colleen McCullough, available
+88, The Glass Castle: A Memoir , super good, Jeannette Walls, available
+89, Mockingjay (The Final Book of the Hunger Games) , super good, Suzanne Collins, available
+90, The Things They Carried , super good, Tim O’Brien, available
+91, The Road , super good, Cormac McCarthy, available
+92, Cutting for Stone , super good, Abraham Verghese, available
+93, The Brothers Karamazov , super good, Fyodor Dostoevsky, available
+94, Siddhartha , super good, Hermann Hesse, available
+95, Beloved , super good, Toni Morrison, available
+96, Helen Keller: The Story of My Life , super good, Helen Keller, available
+97, The Phantom Tollbooth , super good, Norton Juster, available
+98, From the Mixed-up Files of Mrs. Basil E. Frankweiler , super good, E.L. Konigsburg, available
+99, Gone Girl , super good, Gillian Flynn, available
+100, Crime and Punishment , super good, Fyodor Dostoyevsky, available
