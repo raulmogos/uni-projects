@@ -1,0 +1,21 @@
+[2019-04-24 09:03:34] [info] Start Program:
+Path:"D:\FACULTATE -----FMI\semestrul 2\OOP\Lab\lab-7\stl-oop\Debug\stl-oop.exe"
+Arguments:
+Working directory: "D:\FACULTATE -----FMI\semestrul 2\OOP\Lab\lab-7\stl-oop\stl-oop\"
+Modules: Selected: D:\FACULTATE -----FMI\semestrul 2\OOP\Lab\lab-7\stl-oop\Debug\stl-oop.exe Excluded: 
+Sources: Selected: D:\FACULTATE -----FMI\semestrul 2\OOP\Lab\lab-7\stl-oop\stl-oop Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\raulm\AppData\Local\Temp\gnqkdjn1.zl1 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2019-04-24 09:03:34] [info] Module: D:\FACULTATE -----FMI\semestrul 2\OOP\Lab\lab-7\stl-oop\Debug\stl-oop.exe is selected because it matches selected pattern: D:\FACULTATE -----FMI\semestrul 2\OOP\Lab\lab-7\stl-oop\Debug\stl-oop.exe
+[2019-04-24 09:03:35] [info] ----------------------------------------------------
+[2019-04-24 09:03:35] [info] Coverage binary generated in file: C:\Users\raulm\AppData\Local\Temp\gnqkdjn1.zl1
+[2019-04-24 09:03:35] [info] ----------------------------------------------------

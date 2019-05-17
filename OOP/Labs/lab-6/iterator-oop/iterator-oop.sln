@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "iterator-oop", "iterator-oop\iterator-oop.vcxproj", "{07E255BC-E597-4BEF-98A6-1273E3E57E8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07E255BC-E597-4BEF-98A6-1273E3E57E8D}.Debug|x64.ActiveCfg = Debug|x64
+		{07E255BC-E597-4BEF-98A6-1273E3E57E8D}.Debug|x64.Build.0 = Debug|x64
+		{07E255BC-E597-4BEF-98A6-1273E3E57E8D}.Debug|x86.ActiveCfg = Debug|Win32
+		{07E255BC-E597-4BEF-98A6-1273E3E57E8D}.Debug|x86.Build.0 = Debug|Win32
+		{07E255BC-E597-4BEF-98A6-1273E3E57E8D}.Release|x64.ActiveCfg = Release|x64
+		{07E255BC-E597-4BEF-98A6-1273E3E57E8D}.Release|x64.Build.0 = Release|x64
+		{07E255BC-E597-4BEF-98A6-1273E3E57E8D}.Release|x86.ActiveCfg = Release|Win32
+		{07E255BC-E597-4BEF-98A6-1273E3E57E8D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5015A019-8D8C-4E2E-B848-FE75D2D07D6E}
+	EndGlobalSection
+EndGlobal
